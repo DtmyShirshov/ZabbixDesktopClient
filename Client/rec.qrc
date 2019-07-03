@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>alarm_02.wav</file>
+        <file>ZabbixIco.ico</file>
+    </qresource>
+</RCC>

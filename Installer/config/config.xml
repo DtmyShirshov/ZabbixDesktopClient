@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>ZabbixDesktopClient</Name>
+    <Version>1.0.0</Version>
+    <Title>ZabbixDesktopClient</Title>
+    <Publisher>motomoto</Publisher>
+    <StartMenuDir>ZabbixDesktopClient</StartMenuDir>
+    <TargetDir>@RootDir@Program Files (x86)\ZabbixDesktopClient</TargetDir>
+        <AllowSpaceInPath>true</AllowSpaceInPath>
+</Installer>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>ZabbixDesktopClient</DisplayName>
+    <Description>ZabbixDesktopClient - десктоп клиент для системы монитронига Zabbix</Description>
+    <Version>1.0.0</Version>
+    <ReleaseDate>2019-07-02</ReleaseDate>
+        <Default>true</Default>
+    <Name>ru.motomoto.ZBCinstaller</Name>
+    <ForcedInstallation>true</ForcedInstallation>
+    <RequiresAdminRights>true</RequiresAdminRights>
+    <Script>installscript.qs</Script>
+</Package>
